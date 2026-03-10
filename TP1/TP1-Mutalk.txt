@@ -1,0 +1,36 @@
+"Put here the classes you want to mutate"
+classesToMutate := {
+	AlgoPrediccionCripto.
+	InfoToken.
+	Recomendador.
+	Nacionalidad.
+	Argentina.
+	Extranjera.
+	CriterioPrediccion.
+	Maximo.
+	Minimo.
+	ColorPelo.
+	Colorado.
+	Morocho.
+	Rubio.
+   Prediccion.
+}.
+"Put here the test classes associated with"
+testClasses :=  {
+AlgoPrediccionCriptoTest.
+ColorPeloTest.
+CriterioPrediccionTest.
+InfoTokenTest.
+NacionalidadTest.
+PrediccionTest.
+RecomendadorTest.
+ }.
+
+analysis := MTAnalysis new
+    classesToMutate: classesToMutate;
+    testClasses: testClasses.
+
+analysis run.
+
+"To inspect the results"
+analysis generalResult inspect.
