@@ -15,6 +15,8 @@ Este repositorio es para ir guardando modelos de parciales o parciales tomados (
 - [Subsidio](https://github.com/fiuba/algo3_subsidio)
 
 - [naves (recuperatorio 1c 2024)](https://github.com/fiuba/algo3_naves)
+
+- [Repo oficial de la cátedra con parciales viejos](https://github.com/fiuba/algo3_parciales/tree/master/parciales)
  
 ## Recurso adicional recomendado
 
