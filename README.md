@@ -16,7 +16,9 @@ Este repositorio es para ir guardando modelos de parciales o parciales tomados (
 
 - [naves (recuperatorio 1c 2024)](https://github.com/fiuba/algo3_naves)
 
-- [Granja de Orson (parcial 1C2026)](https://github.com/fiuba/algo3_granja_de_orson)
+- [Granja de Orson (1er parcial 1C2026)](https://github.com/fiuba/algo3_granja_de_orson)
+
+- [Orquestador de Pods (1er parcial 2C2026)](https://github.com/fiuba/algo3_orchestrator)
 
 - [Repo oficial de la cátedra con parciales viejos](https://github.com/fiuba/algo3_parciales/tree/master/parciales)
  
